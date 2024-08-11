@@ -54,9 +54,9 @@ if __name__ == '__main__':
                 ordered_num = length - len(ordered)
                 # headings, lists
                 if 1 <= heading_num <= 6:
-                    line = '<h{}>'.format(
-                            heading_num) + headings.strip() + '</h{}>\n'.format(
-                                    heading_num)
+                    open_tag = '<h{}>'.format(heading_num)
+                    close_tag = '</h{}>\n'.format(heading_num)
+                    line = open_tag + headings.strip() + close_ta
 
                 if unordered_num:
                     if not unordered_start:
