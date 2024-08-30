@@ -1,0 +1,1 @@
+The Accessibility project focuses on enhancing web accessibility using HTML and CSS. The goal is to create web pages that are accessible to all users, including those with disabilities, by adhering to accessibility standards and best practices.
