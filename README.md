@@ -1,1 +1,1 @@
-FRONTEND FUN
+explore and implement creative and engaging layouts using only HTML and CSS. The project emphasizes the power of CSS in designing visually appealing and interactive web pages without the need for JavaScript.
